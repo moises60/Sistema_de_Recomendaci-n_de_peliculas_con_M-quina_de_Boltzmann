@@ -1,0 +1,134 @@
+Usando dispositivo: cuda
+Número de usuarios: 6040
+Número de películas: 3706
+Epoch: 1, Loss MAE: 0.4444, Test Loss MAE: 0.4016
+Epoch: 2, Loss MAE: 0.3639, Test Loss MAE: 0.3596
+Epoch: 3, Loss MAE: 0.3294, Test Loss MAE: 0.3383
+Epoch: 4, Loss MAE: 0.3108, Test Loss MAE: 0.3263
+Epoch: 5, Loss MAE: 0.2992, Test Loss MAE: 0.3166
+Epoch: 6, Loss MAE: 0.2910, Test Loss MAE: 0.3107
+Epoch: 7, Loss MAE: 0.2854, Test Loss MAE: 0.3075
+Epoch: 8, Loss MAE: 0.2815, Test Loss MAE: 0.3013
+Epoch: 9, Loss MAE: 0.2765, Test Loss MAE: 0.2975
+Epoch: 10, Loss MAE: 0.2733, Test Loss MAE: 0.2944
+Epoch: 11, Loss MAE: 0.2711, Test Loss MAE: 0.2944
+Epoch: 12, Loss MAE: 0.2688, Test Loss MAE: 0.2925
+Epoch: 13, Loss MAE: 0.2668, Test Loss MAE: 0.2910
+Epoch: 14, Loss MAE: 0.2658, Test Loss MAE: 0.2866
+Epoch: 15, Loss MAE: 0.2644, Test Loss MAE: 0.2844
+Epoch: 16, Loss MAE: 0.2629, Test Loss MAE: 0.2852
+Epoch: 17, Loss MAE: 0.2616, Test Loss MAE: 0.2834
+Epoch: 18, Loss MAE: 0.2602, Test Loss MAE: 0.2786
+Epoch: 19, Loss MAE: 0.2593, Test Loss MAE: 0.2797
+Epoch: 20, Loss MAE: 0.2602, Test Loss MAE: 0.2786
+Epoch: 21, Loss MAE: 0.2586, Test Loss MAE: 0.2795
+Epoch: 22, Loss MAE: 0.2573, Test Loss MAE: 0.2796
+Epoch: 23, Loss MAE: 0.2572, Test Loss MAE: 0.2756
+Epoch: 24, Loss MAE: 0.2562, Test Loss MAE: 0.2767
+Epoch: 25, Loss MAE: 0.2564, Test Loss MAE: 0.2732
+Epoch: 26, Loss MAE: 0.2543, Test Loss MAE: 0.2733
+Epoch: 27, Loss MAE: 0.2550, Test Loss MAE: 0.2728
+Epoch: 28, Loss MAE: 0.2539, Test Loss MAE: 0.2769
+Epoch: 29, Loss MAE: 0.2539, Test Loss MAE: 0.2750
+Epoch: 30, Loss MAE: 0.2530, Test Loss MAE: 0.2720
+Epoch: 31, Loss MAE: 0.2513, Test Loss MAE: 0.2713
+Epoch: 32, Loss MAE: 0.2530, Test Loss MAE: 0.2734
+Epoch: 33, Loss MAE: 0.2509, Test Loss MAE: 0.2717
+Epoch: 34, Loss MAE: 0.2506, Test Loss MAE: 0.2714
+Epoch: 35, Loss MAE: 0.2506, Test Loss MAE: 0.2718
+Epoch: 36, Loss MAE: 0.2500, Test Loss MAE: 0.2688
+Epoch: 37, Loss MAE: 0.2491, Test Loss MAE: 0.2728
+Epoch: 38, Loss MAE: 0.2498, Test Loss MAE: 0.2698
+Epoch: 39, Loss MAE: 0.2495, Test Loss MAE: 0.2697
+Epoch: 40, Loss MAE: 0.2492, Test Loss MAE: 0.2688
+Epoch: 41, Loss MAE: 0.2485, Test Loss MAE: 0.2687
+Epoch: 42, Loss MAE: 0.2489, Test Loss MAE: 0.2648
+Epoch: 43, Loss MAE: 0.2476, Test Loss MAE: 0.2666
+Epoch: 44, Loss MAE: 0.2477, Test Loss MAE: 0.2668
+Epoch: 45, Loss MAE: 0.2480, Test Loss MAE: 0.2674
+Epoch: 46, Loss MAE: 0.2472, Test Loss MAE: 0.2633
+Epoch: 47, Loss MAE: 0.2482, Test Loss MAE: 0.2640
+Epoch: 48, Loss MAE: 0.2473, Test Loss MAE: 0.2660
+Epoch: 49, Loss MAE: 0.2465, Test Loss MAE: 0.2647
+Epoch: 50, Loss MAE: 0.2468, Test Loss MAE: 0.2643
+Modelo guardado en models/trained_rbm.pth
+Archivo 'movies.dat' cargado exitosamente.
+
+Por favor, ingresa tus datos personales:
+Género (M/F): M
+Edad: 21
+
+Selecciona tu ocupación según el siguiente listado:
+0: Otro o no especificado
+1: Académico/Educador
+2: Artista
+3: Administrativo/Clerical
+4: Estudiante universitario
+5: Atención al cliente
+6: Médico/Cuidado de la salud
+7: Ejecutivo/Gerencial
+8: Agricultor
+9: Ama de casa
+10: Estudiante de secundaria
+11: Abogado
+12: Programador
+13: Jubilado
+14: Ventas/Marketing
+15: Científico
+16: Autónomo
+17: Técnico/Ingeniero
+18: Oficios/Artesano
+19: Desempleado
+20: Escritor
+
+Ocupación (ID numérico entre 0 y 20): 12
+
+Por favor, califica las siguientes películas (1-5 estrellas). Si no has visto la película, presiona Enter para omitir.
+1. Mummy, The (1999): 5
+2. Hi-Lo Country, The (1998):
+Película omitida.
+3. Peter's Friends (1992):
+Película omitida.
+4. Lucie Aubrac (1997):
+Película omitida.
+5. Minus Man, The (1999): 3
+6. Bad Company (1995): 4
+7. Life with Mikey (1993):
+Película omitida.
+8. Bye-Bye (1995):
+Película omitida.
+9. Trial and Error (1997):
+Película omitida.
+10. Radioland Murders (1994):
+Película omitida.
+11. Heart Condition (1990):
+Película omitida.
+12. Love and Basketball (2000):
+Película omitida.
+13. Thumbelina (1994): 2
+14. Kicked in the Head (1997):
+Película omitida.
+15. Dead Man on Campus (1998):
+Película omitida.
+16. Young Poisoner's Handbook, The (1995):
+Película omitida.
+17. Hidden, The (1987):
+Película omitida.
+18. Year My Voice Broke, The (1987):
+Película omitida.
+19. Nothing But Trouble (1991):
+Película omitida.
+20. Gremlins (1984):
+Película omitida.
+
+Las siguientes películas son recomendadas para ti:
+- Shawshank Redemption, The (1994) (Drama)
+- Schindler's List (1993) (Drama|War)
+- Close Shave, A (1995) (Animation|Comedy|Crime|Drama|Thriller)
+- Godfather, The (1972) (Crime|Drama)
+- Rear Window (1954) (Mystery|Thriller)
+- North by Northwest (1959) (Action|Adventure|Mystery|Thriller)
+- One Flew Over the Cuckoo's Nest (1975) (Drama)
+- Raiders of the Lost Ark (1981) (Action|Adventure)
+- Great Escape, The (1963) (Action|Adventure|Drama|War)
+- Sixth Sense, The (1999) (Drama|Horror|Mystery)

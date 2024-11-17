@@ -1,0 +1,1 @@
+Coloca el ml-1m o el dataset que prefieras(https://grouplens.org/datasets/movielens/), pero ten en cuenta que, aunque puede ser relativamente fácil adaptarlo, el código está preparado para trabajar con el ml-1m.

@@ -1,0 +1,23 @@
+
+ID	Ocupación
+0	"Otro" o no especificado
+1	"Académico/Educador"
+2	"Artista"
+3	"Administrativo/Clerical"
+4	"Estudiante universitario"
+5	"Atención al cliente"
+6	"Médico/Cuidado de la salud"
+7	"Ejecutivo/Gerencial"
+8	"Agricultor"
+9	"Ama de casa"
+10	"Estudiante de secundaria"
+11	"Abogado"
+12	"Programador"
+13	"Jubilado"
+14	"Ventas/Marketing"
+15	"Científico"
+16	"Autónomo"
+17	"Técnico/Ingeniero"
+18	"Oficios/Artesano"
+19	"Desempleado"
+20	"Escritor"
